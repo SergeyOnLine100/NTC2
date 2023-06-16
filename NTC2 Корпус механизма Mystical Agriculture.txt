@@ -1,0 +1,43 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Корпус механизма Mystical",
+    "author": "Monster1",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 3,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "mysticalagriculture:inferium_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 56,
+          "item": {
+            "id": "minecraft:iron_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "mysticalagriculture:prosperity_block"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJWTO27bQBCG56EYMmsfQAhSpHWrKhdwatuNsRLX8iJ8CMslEKWyYeQSOYWbICnyuMLqRllyfyaykCJh8w13dv5/OBgWRKc0K00wBRFpkWNSKjrrnancB+tTggp60QUT7Jxmb01t6ax2jV17cxuWzrfNzapq1++Ga/9Y/7LedcGtTWU23q37KvTeLl1zm4r6+r/VXv1NbevbbpvKwm7SOyXdtt0sCbyhg4dBAfUowaCAelTAoIB6JMSggPrbIDswKKBOzpxTPFIGf4Y/w388Z8n3RJAHkxDDn+HP8H/2BQwKqNOXcT5izq0JIw8OLY39Sb4ngjyYhAT+An+B/7MJMSigTpNj5EEBFUwFivkr5q/wV6gr/BX+Cv+06Cd31pTWz+nE9OGu9TS/aJsuWH+ecqu2b8pOaZbW/CpLDeHlFJr311loCK/+hJdT6JrrsYW0oc2woa/jp/hjfx9/7h/3D4v4LX7ef4xP8Xv8Gr+kt6fFBTY4LenBss/HKSxWvatK12w2ptzY0C3Lvq53Nwf/xC9yptrCxwMAAA\u003d\u003d"
+}

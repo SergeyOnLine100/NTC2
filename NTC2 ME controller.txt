@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "NTC2 ME controller",
+    "author": "Monster1",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 4,
+      "max_y": 4,
+      "max_z": 4
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 44,
+          "item": {
+            "id": "extendedcrafting:crystaltine_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "appliedenergistics2:energy_acceptor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "emendatusenigmatica:fluix_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 54,
+          "item": {
+            "id": "appliedenergistics2:quantum_ring"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 20,
+          "item": {
+            "id": "appliedenergistics2:smooth_sky_stone_block"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJWUMW/bMBCFj7xzYGvsH6jRbt2a0WvRMUGHDkkWg5Zom4gkuiQF2AX630tJT7EdBGjjwR8FHh/vkbwriBYklUmmIKJZMY6JqYg2OFO73zbkCSpoFpNJdk5ybxpLn+wx2bayVRnMNrl2tyrDKUfUeWzXm9qXz/2if6gVVPwI/mBDcjbO6WbrQ2Mrmm1NHS1Ney3N4VA7W9nWhp2LyZXxdvWrM23qmnXIe//HTpPWl7e0YuN92q/j82kdk39H/pPq57dUh4/T2pSlPSQf3iH30Tb5bE3qom3drjFZz6y2deeOU2YL4oOPktf+oYufAjXIoFwFKFKgBhkL5Uogx4EaZAjL1QY5DtQgY2N5lYACNcigvCTYZ6jGv14PZGQu9DKl+iQVqEHGUpkkNP4Gcu9jjNOIA/PUGAdqkBlxjKMVbA5qkAX5yeUVIKnRh4YPDR/6bHHwoYf88M2wLtMR6HFeDZTex/DNGnFgLwEfox6+mRHHeBqC/EANsiA/uXxCalQmJDn6YPjg8xUNPhj3wfDB8MHwwbgPxn0w7oPhg+GD4YNxHwwfDB8MHwwfDB8MHwwfVy9QgRpkUKYXqsYnpkANskIcmAUE9SGoD0F9COpDcHqC+hDUh6A+BPUhyE5QH4L6ENSHwIcUdLO3prIh90nTpX3uKPM738Zkw9c8t/FdW8Ws17j2EVvn4cM0NMcnbJiHj+fhwzR07dOQSm5Cbd+EPtz//Ha7vPu+LH2bgq/r3KsWl51rPpzXctO5uspNeGeqnU1xVXVNk/voucH9BVmEvY1jBgAA"
+}

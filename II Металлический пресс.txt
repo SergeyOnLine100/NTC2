@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Металлический пресс",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 0,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:conveyor_basic"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:piston"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAKVSS07DMBCdNmmbhg1HqIRgy753ALFsu4nceJJaSuzKdvphRdlwCQ7BBqnAgiu4N2KSfhEVoiKJkjfj8Zv3Jg4B2uBzZlkIAI1wjcGD0KAWLBP3qGkBQmgYyyyGEN5pNUZtBZoAzqaU05lKU+TQSFhmEALwb1mOcC3yHLURE0SZConEJ9OusYhZZGKWJCrjlImIV3Kmednk390DaCYsJlraoQo72qm5OKomVnKCc6WjITMi/oOC3+m0iQ7C0w1ttftcTWUAAc4sSv5ztOc59Yg1S2x3LIxV8gTlV0eVj5BN5t/Ft8EbK+MTRQt2V616AOqbwCvf9PXLVG1TVN/U1UNoEjFHTdYY/Q2loXWjJJ0BTUtDVUhuPPDJTb/ct4a9LWSzQUm2hv097O1rB1U/siZLa5fu2b2uHt2L+6B7uXqiaOHe3dK9ddzn6qEMVwsydjCioPLRGRaiOo0p4yla0+VFns+jg0l+AfSus3MpAwAA"
+}

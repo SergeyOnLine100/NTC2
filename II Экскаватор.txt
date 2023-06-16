@@ -1,0 +1,85 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Ёкскаватор",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 6,
+      "max_z": 7
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:radiator"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "emendatusenigmatica:steel_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 26,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:stone_bricks"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "immersiveengineering:storage_steel"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJ2Uv44TMRDGvWt7E5YW0SEQCFr66ylBlMc1kZOdbKzbPyfbOTgq4H2QTpRX8AybN7qx/QWlCNLlmp3x5/FvZtazWwvxRKjGBFMLduvsCylqT86azn4nxxuiFtoHE2gu1CfTk3hr+56ct9dEQ2sH4uChPfMbotBTMN3CB6Iunnsg8MVRoDONNWF0J4DeHQVtyFzfLA6UE4hvjpfmH4k7XmBn2014JPH18cvg92ZaevBN1KL+7MYrcsGSn4unX1lz3di21Ai9Np0nsU/4/j8JOdHCr8x6PXYNK5zaDI1xzQm9PO+Zt3JmHWIDAy2Wzq4u/QmEl9QTZw1bT4NtexPsyqC2ZTeuLuPEy6vRKz77IQJEmZ6iSLYQJdacKm0WMi9KCV0hHrZUEDk0rZNV8QhbHc9nXUJX0RbxXN4vUEEZbRXrKMEpUUfWJXRY5mQ92cQrE09DL2IHVeRKcJMtky0jV4IrE0zmjtmV4GZ9v9bRajSR+Ap8Bb4CX4Gv0L8CX4GvwFfgK/BzfPWPr8HX4GvwNfga9WvwNfgafA2+Bl/jfVfgVThfIb7C+2M7ixlmgmee92e1qPgX0pCbi8psw4Z/SbOP48Bj5XhrOW6HxnN7PLxf8o1F93zvmm8X7M2yGwOq7J7n24yxF6lynuEhzvCz6fd0t/s53U2305/pdvdr+rv7wXN7MPrzNKuvllubvrXWNC0Ff9Zs+/5mcfCF3AOWZGrq4gUAAA\u003d\u003d"
+}

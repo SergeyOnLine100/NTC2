@@ -1,0 +1,43 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Рамка механизма",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 3,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "tconstruct:clear_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "minecraft:iron_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "emendatusenigmatica:steel_block"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJVSS07DMBAdz4TSZo3YIXoMlDvAuu2mchOTWiQOsh0J2HMPjtANAiG4Q7gRTj0J7Q688JvPG8+M9VKAGSSF9DIFAEqjDQSpU1bLSj8pGxKQwonz0qspJDeyVnCpamUCtXXK6LKWXucyc16par2pmvyur/jjU+c+b4zzts19lldK2nVZSef+8cJZrY3Krbz1mbaNGSaYAd03LgkFV3BwBCMy0lFCgGBEJpJgNnKeETHGiTE+hCAYkZHGBn0HEa++njsSjKH9RQMF2cfoBGIkMSLFONHhSoLJYpyY2B9a0tAa2UemEtczIsU40fFXiXHTiDR8oYirCEYUnBc8AnKeETHGiTHcxP9H/H/E/YMuJ1slC2WnMJGt3zYWTq971SgbUpumNYUjSIIOlnGk3lwMpnxY9VY0l7/mYjC1We03CIIyvaAuupdu1312H91uHuD1+zm4X9179xa8XRDWgSCn+83nm1ZXhTZlKYtSeZcVbV0/rg90+wOIMlsIagMAAA\u003d\u003d"
+}

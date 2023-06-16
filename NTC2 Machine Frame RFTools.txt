@@ -1,0 +1,43 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "NTC2 Machine Frame RFTools",
+    "author": "Monster1",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 3,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "emendatusenigmatica:cobalt_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "emendatusenigmatica:dimensional_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 56,
+          "item": {
+            "id": "mekanismadditions:gray_plastic"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJWTwU7kMAyGY3sWDX0EDqteeAD2OKeVkLjBAXEALiPPJOpEtClqUgn26Tdt/u4OIw7Qy2fZ8f87kVsZc25WVpNWxhipSmzEVNENXlv/xw25YCrzIyZNbm1Wd9o587NzLxp87NRan3wf4qYZ9H372mpMfj81fFHp0nUu5KNjdME3neZu3VifkzHLarvdtf3+5RuC9WeC+36nbVq0zo289nGVm3+bo49ABuWkQCCDctJAIINyIkQgg/LPoDgQyKAszlRKNJMnf4I/wX/OE5dzzKiDWYjgT/An+H+4AYEMynIzKimiMhoT6uA00jwfl3PMqINZiOHP8Gf4f3ghAhmU5eUIdZBBAXOD4P0F7y/wF6gL/AX+Av+88WcHp9YNa3OmYzr0g1nf5nVObrjKtV0/BhvFrDofnorUFD4uob49F6EpfPofPi6hD8/zCHk7w7SdF3cP17/qW90ffHD1zZBz9f3NQ9+3Ma/l0Wqv53vXu9G31oemUdu4FDd27Lr37dEf8BfjWFa4wgMAAA\u003d\u003d"
+}

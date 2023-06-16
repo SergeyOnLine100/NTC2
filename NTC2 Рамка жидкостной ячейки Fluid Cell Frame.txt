@@ -1,0 +1,43 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Fluid Cell Frame",
+    "author": "Monster1",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 3,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "emendatusenigmatica:aluminum_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "tconstruct:clear_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "emendatusenigmatica:copper_block"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJVSPU/DMBC9+AJKMzExR/wDNtQVqRvMbZfKja3UwnYqf0jAr8euzzRIDJAM73x379l+vh5gBa3ggfcAgH2JAaH30imu1ad0qQA93PjAg+ygfeVGwiCNtKk1emnVZHhQI1+P8/ks3eGo5/EtU/6o9fCbFtfRKBvNv9XuwzhbH1wcw3rUkrvDpLn3+Z54nn2bKE/w/TXpL8gog7QuBQYNIWtKHgkLIdUJGaP6D6GkT8iQ0rSuIg0ho02xijcFkbC0sqxfKEh8QobEx8XhK6noM9KvISN9tmzBehQkPiFD4uPSqqZ0FjGkJF6vcvEPyT8k/+oVkfxD8g/JPyR1JP+Q/EPyL43p7UlyIV0HtzyG0+yge8mvLt1jqh3naIVHaNME7YpUDrc15O/7IpTD3TXc1lDZ/eUIaaZsnqm7jY5KDM9S62Hjcma1HMPu8pbDMSotlJ0mLiYZ/FpEYz4Oi2n9AtDU/eVtAwAA"
+}

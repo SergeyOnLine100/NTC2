@@ -1,0 +1,71 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Промышленная маслобойня",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:piston"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:steel_fence"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:wooden_barrel"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAALVUzW7UMBCe/Ow2DRckHoAVSNxQ7/sOII5tL5F3PclaSuzIdtjSU7khcegj8Apw4IBo+wzOGzFOsu0KoqU5NH/feJz55vMXKynAMcScWZYChWkfQwSpQS1YKS5R0wSkMDOWWUwh/aBVjdoKNAk821JOl6ookMMsZ6VBSCB+zyqEE1FVqI34iCgLIZH4ZLE0FrHMzJrluSo5ZTLilZxp7pv8p/uO+s0odSmKjc32MhMYX48yajORboI9L0c75mUjeFaLGieIfzVKtVWKo8xWTGssp2uf52ztFx1ztZUJJHhhUfJ/1/G8oo5rzXK7rIWxSk5vFSMzduAdNS2hOtXYDcRWN34klabRbjLeItV3c/eyFgd2X45y/Rh/R2UOEg6pvB/2MoeKXuVf7j2ZzMe4eUjnZDePIaqViUnXC9g7guEZdhgOCRp3GA2vRP4RPLwRQxD0GHY4gyD0OIcwHCihpwwGDLurqwuHOsIjX0eY+LowhfkGGUdNu5uRAUrD0TslaRmaplaqkdxEENOGPuvF+fB0F7KLc9+nD88ewtNdKOR5p4tMk960t+5be+Xu3E37tf3ifruf7pbO7+31wt0QfKbUnftB9y93216TgXvfN+mWtlg1ovtJFowXaM2SN1X1KdvbBn8A5rdlicAFAAA\u003d"
+}

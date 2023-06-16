@@ -1,0 +1,43 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Рамка энергетической ячейки",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 3,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "tconstruct:clear_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "emendatusenigmatica:electrum_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "emendatusenigmatica:lead_block"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJVSS07DMBCdeEIpOQBLVHEGFqh3gHXbTeUmVhqRD4odCVgBG1aIK3CESgipRcAZnBsxric0SCwgkfLGM34v4+eJAA4gTKSREQBg5GNAiLSqM5lnN6qmAkSwp400agjhuSwUHKlClbS10arM0kKaLJbjXMlkvsir+MIR/qh0/JuSylVs6qb4t9qhiatSEzU245j6qedpLrV2p8TLSodEOYXvJ6DXo+AM8toXBASMIvB5ZPQEqjMKwfUfQqTPKJDTvO5EAkbBP8VOPPCIjH6rcPqegsxnFMh87DXfkby+YP0uFKwv+luwawWZzyiQ+di3KvA7vRhyEndH2fqH7B+yf90Rkf1D9g/ZP2R1ZP+Q/UP2j4Z0sKRJU/UQBrIxy6qG/TN366qm0qJqykQjhEVWTr2SCyddKK9mXseF01046cKsnG07oJEq3Uid2Ge7su/2za5G7aP9sK/trX2h771dtw+Ed1T6tJtR++SWdkPLNc1bb1KH2+seLZosT7IyTWWSKqPHSVMU1/PeQH8BZvBHgI4DAAA\u003d"
+}

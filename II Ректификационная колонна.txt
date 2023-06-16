@@ -1,0 +1,71 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Ректификационная колонна",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 15,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 17,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 60,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 30,
+          "item": {
+            "id": "immersiveengineering:slab_steel_scaffolding_grate_top"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 25,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "minecraft:torch"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAK2VzW7TQBSFr+/YieO4zSNQCcSWFZu+A4hl6caa1BPHkn+isVMoS4RYIfEKPEI3SFUr+gzOGzGeOVMiEYkiNbZ85hz73sl8SsYJ0YzCXPYyIaJp4sYkKOmULmVVflLa3KCEoq6XvYopfCtrRS/Lula6Ky+VaoqyUebhpjhdK3l5le0lY+E/OiaUvNPtRum+VF1M8w8m01VbFCqnaCWrTpGf9NXBSbteqSrrLuRq1Va5STLTt8mlzp929mcHZ19V2zLPNuVGPWI23+r5wVa6e3J0ZsL+ynw10bebh4W8Poyxksvsb5aFNk2zsfzxy1vUpuuFlqv+tG/1xfo/Sl8c/m5rpfpa9bLKSt02429WbNouNA2+0cMnMMf4YXM4L/7ccrlVQcJ7htoHQ3uOlyBEDi+8j6AT6BR1Mepi5PDC+9moEYkZfAKdoz5FfYocXnh/BD2GLvYW7dZtT4YKrNjdmlAAZas8ni6HsvcC3qrl4XIohy4XPo+QQ4MJPDSYwk/RL0YO5Rj9fD5DDg0SeGgwh5+jX4ocyin6+fwIOTQ4hocGC/gFEJJDGEAZKqxajgyODH4Mfgx+DH4Mfgx+DH4Mfgx+DH4Mfgx+DH4Mfgx+DH4Mfgx+DH4Mfgx+DH4Mfgx+DH4Mfgx+DH4Mfgx+DH4Mfgx+DH4MfgL8BPgJ8HM5fpqGm1MxquXkfOg8Q4XPo1HNJYKfQKeoj+Fj1EOFz2fQBDpHXQqfog4qUjcfHZFIaGJea7nSMU3ktl+3mqZv2sbslNrcWrbbJu8EhWbLe+/WPw7P/FB+PB9Hbjg+sHDDM5+Wzbn9p5oNsLHvuOHH8HO43X0ebnZfhpvhdrjefTV6P/wyx/Xu+4mJ7oc7H5itcG9Lje1//mS5Le3uXci8UH13mm/r+irb23l/A+9x7cf3BwAA"
+}

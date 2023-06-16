@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Дробитель",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 4,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "minecraft:hopper"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "immersiveengineering:steel_fence"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAMVUzY7TMBCeOG6bDRfEE6yEtFfufYddcdzdS+XWkzRSYle2QxdOiDNHXoQDEhISz5C+ERNn0gap4lcsyeGbsWfm+2bsJAe4AKlVUDkAZPlgQwq5R1epunqDjjYgh5kPKmAG8kY1CFdV06Dz1StEU1YGKdiUy7oqt2E1WekTf1Ixh/ylszt0oUKfwZM9rbnaliVqmBWq9ggj6YuzpD4g1iu/UUVha00rK6prtHL699klKh9ABtfiWSkZpdk2bMeQmbGOvHFT7nFMP4q+/IHoAs0Gf0HlWOv52VrO/93I54Xa9IlS273JYIFGrWtq+fs+njbEsHGqCMut3e36io80Xfb+1XD/VOTR/X8qRwmPJvMC0p31knRdwfFJ6B0ewX7KKE8hcTdhFIxpxBRkRAmJGFAwpmJCMvBw5mCmjJLXh5BZzzPEsZ+yLyNGnoR5EuaZtBCDIgrGlFGeWiSc9zwRRcRFzyO4vuD6guuLHOZbVBodfXCKDsY6WFxbQ+N1tLW2rdGeJkFf2R0Phczb0VQP9724wbw7mX2AHGLvozI6TNMf5rPuw+Ft97X72H0+vOs+dV8O7+n0Jpcri21crtsq/jRLpUsMfqnbpnm9mtzBbxxlbDciBgAA"
+}

@@ -1,0 +1,85 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Доменная печь",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 4,
+      "max_y": 4,
+      "max_z": 4
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 27,
+          "item": {
+            "id": "immersiveengineering:blastbrick_reinforced"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:cauldron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 14,
+          "item": {
+            "id": "immersiveengineering:slab_sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:storage_steel"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAK2Uz24TMRDGvR4nTZcbN24VCA5c4Jx3KOLY9rJyspPNiv0T2U4gvAAXJC48CJfegL7C5o2Y9X4pQQpSaUmk/Sb27Hw/j+2kSp0qk9tgUyVhOsSKVOrZlbYqP7KTCZWqkQ828ESZN7Zm9bysa3a+3DA3RdmwJDfF1C+ZQ83BVpkPzFX/3h0LPj1eMLTOFnznaqlK37p2xS6U7Cfq0XsZc1VbFJyr0cJWvvcL2xWr8awNoa3V3v/lcf/KzrIHrOrF0apLtpttdjDy4IpVWSzDPSseX/mssj7MXDl/lzkum0Xr5tLD/7EDty1/9ZctlxZnfm4Xi7bKZUSabpvcunu4jyreyH4lr289H9diNHd2EaZzu65y1zb/0KpnR4md/7Pzp4pWrTfy/rk6+CR46qha3AY1UQkJpJIEeQle1PitD0vp/hFVQwlqosan6KivF1UnGNcYh2ooQU3UcUSJeVANJcK86ZVAqAfzgUeDR/RkcBx4NHg0eDR4NHg0eDR4NHiGPEIeVEOJMG8GTaDaqH3HCHwEMwIfoV8EPgIfgY/AR+Aj8BH4CHyEfhH4CHwEPkK/CDwGm7hvyt7E9HkGi5Upg/NgcB5E5SgmODLYauExqRrLn0rObqLGdh2WrVMn520jd8ml/V/dusk9KSOH/3LoRx9e7EP74aqHGsLL3+HFPiybq+go5k1/D550X7uf3ffuuvsh32+7L2fdTXe9+7T7LIf/4A5N4jLPZusy3uTC5gUHP83Xdb3NDq7aLzprJvuGBgAA"
+}

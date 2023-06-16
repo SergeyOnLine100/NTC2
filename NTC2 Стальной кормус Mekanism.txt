@@ -1,0 +1,43 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "NTC2 Стальной кормус Mekanism",
+    "author": "Monster1",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 4,
+      "max_y": 4,
+      "max_z": 4
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 60,
+          "item": {
+            "id": "mekanismadditions:black_plastic"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 27,
+          "item": {
+            "id": "emendatusenigmatica:osmium_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 38,
+          "item": {
+            "id": "emendatusenigmatica:steel_block"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJWUOY4bMRBF2azyQNOXsHJHdqjU8UzkYGYSgVITGkK9DHoBbAMGvKS+hG/g1NucoXUjU82nxYADWwL6s1Tsr/r8rMqNuTRauN7lxhjJ09qIyTvfBleGt76NCZObJ13vej8zeu0qb576ytdx69D5Omwq14e1W3S99+VyVTbr7f6Nf6Wq/NbVoatcUYQ+NHW3WJVuvV0+lK6LvP9BNf9bVU1XhaE6lHVp5KHpNL78zhw/WfwmtKCQUWI2mCxjH7EQK5gIIl8iMpZYQAUPf5AJfMRCrH8UEPlAC4qSJj57ZOiYYiFWc5Q4FZmBFhSOQDMoLA/QgmLhs/AJ+0ALisAn8Cn1KfURC7Hq8ZDtscgUWPyw6LAniZMOiw6LDosfyQHLPtCCYlNeLXzCPtCCIvCBsQCLH6k+YgFVz4/+4PRUjPCjoENOV23SIegQdAh+CH4IOgQdgg7BD8EPQYegQ9Ah+CHoEPwQ/BD8EHSc3cAsvZF0KEUrST1dsak/lP5Q+kPxQ9Gh9IfSH0p/KDqUU1P6Q+kPpT8UP5TqFD8UHYofSn9obi7uvSt8OzMXbujvm9bMruKY6X37POZWzVAXXeSrQn2bjnC/vDks3eu7dHD75e1peXNYhvpuKiVOoXo/hZ5dv3r5Yj5+2X0cv44/dp/HX+Pj+G0+fh8fd+/Hn7tPuw/zK2ZenEdnM202XYj5aghlEerNxhUb33eLYqiqN8uz0fcbDb0HFrYFAAA\u003d"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Гнилая рамка механизма",
+    "author": "Monster",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 3,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "minecraft:iron_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "extendedcrafting:redstone_ingot_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "quark:sturdy_stone"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "immersiveengineering:treated_wood_horizontal"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJWTPXLbMBCFF7uMLbPM5ABq0mR8AlW5QFLbbjiQgcgYi0ACgvFPlSZ1ilxETSaZ/NwBulFA8smSO1vD0Vtwse8DdpY10QlVRiddE1FVTzEJ1Z2NTq/dvY0lQTW96JJOdkbVe91aOnVta2PnPlvrV87bstmvFinassc0NyGY5ipEdx980uuh/Im+Lz/1Ol4vutRHc9d0KXj7jOpXbTnKZdQf0sLF4JvlOlxeP6P+tb1N1htrRo/hRtGa8RBNWYS0Mzwh+Ri6qji8pYOfgjJUdm/VpArKUIFOBSUPZag8NiIFZajIIZpB4sFOoUzhUcNKQVlNL0U9lEx5KMNKGFcSbIKywF8Or8y4CU9/E5/BZ/AZfAaf90ce+Qw+g8/gM/gMPoP/qEMKylDZt0DQf0H/BXwBX9B/Qf8FfIG7oP+C/gv4UtPRldXGxhkd6T6Voafjd8F3ycaSWobem06oKoN5PjkN4dku1LcXk88Qnu/Ds13o/MV4gjKhfpjQN/l7/pd/5T95s/02337Jm/w3/86beZEf269lOWR/ltWmTOnBuM/G/syXvVubMssrbVY2dQvTt235zvZfxX+C9X1CEQQAAA\u003d\u003d"
+}
